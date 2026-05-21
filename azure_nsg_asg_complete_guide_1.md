@@ -30,7 +30,7 @@
 
 # 1. What is NSG?
 
-NSG (Network Security Group) is an Azure network-level firewall service.
+“NSG in Azure is a networking security service used to filter and control inbound and outbound traffic for Azure resources using security rules.”
 
 Using NSG we can:
 
